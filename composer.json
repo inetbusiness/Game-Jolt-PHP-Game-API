@@ -4,6 +4,9 @@
     "type": "project",
     "license": "MIT",
     "autoload": {
+        "files": [
+            "functions.php"
+        ],
         "psr-4": {
             "GameJolt\\": "src/GameJolt/"
         }
