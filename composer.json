@@ -1,0 +1,19 @@
+{
+    "name": "gamejolt/game-api",
+    "description": "Implementation of GameJolts' Game API in PHP",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gamejolt\\GameApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "inetbusiness",
+            "email": "magicsux@wt.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
